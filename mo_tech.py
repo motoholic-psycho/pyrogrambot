@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 
 Adheera=Client(
     "pyrogrambot",
-    bot_token="5523963638:AAECZ3DPolIyPbOSTp1gv5tP6dZjbMXKr-o",
+    bot_token="5383228275:AAENO9Z23SL1_mS9KgsyxHDPVxqmyLh9pl0",
     api_id="10602849",
     api_hash="1d72f2f6623e8f5f31a7db26052791e1"
 )
